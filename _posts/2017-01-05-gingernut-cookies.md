@@ -16,22 +16,22 @@ recipe:
     * 1 tablespoon ground ginger
     * 1 teaspoon baking soda
   directions_markdown: |-
-    1. Pre heat oven to 350°F.
+    1. Pre heat oven to 350°C.
     2. Cream the butter and the sugar.
     3. Add the golden syrup and the dry ingredients.
     4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
     5. Bake at 350°F for 15 minutes.
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ![Cookie](https://source.unsplash.com/euGck1ifvp0)
 
-Carefully placing them on the tray.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ![Cookie](https://source.unsplash.com/RUPPakds28k)
 
-Little Gavin loves them.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
 

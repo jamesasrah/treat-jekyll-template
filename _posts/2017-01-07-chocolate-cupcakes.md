@@ -46,16 +46,15 @@ recipe:
     1. Combine all of the above in a food processor and process until smooth. Refrigerate.
     2. Frost cupcakes as you use them.
 ---
-These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
-
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&h=940&fit=crop)
 
-You can never go wrong with sprinkles.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![Cupcakes](https://images.unsplash.com/photo-1420730614543-e39f93134b0d?w=1560&h=940&fit=crop)
 
-Milk is a great addition to any cupcake experience.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Cupcakes](https://images.unsplash.com/photo-1457508252818-162dc1934c2f?w=1560&h=940&fit=crop)
 
-Why not add some popcorn?
+Yummy!
