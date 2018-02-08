@@ -3,7 +3,7 @@
 
 title: Treat Template
 url: "https://jamesasrah.github.io/treat-jekyll-template/"
-baseurl:"https://jamesasrah.github.io/treat-jekyll-template/"
+baseurl: "https://jamesasrah.github.io/treat-jekyll-template/"
 google_analytics_key:
 newsletter_action: 
 disqus_shortname:
