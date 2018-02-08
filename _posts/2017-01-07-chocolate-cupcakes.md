@@ -4,7 +4,7 @@ title: Chocolate Cupcakes
 categories:
   - Cupcakes
   - Cakes
-featured_image: https://imgur.com/gallery/8PS78
+featured_image: https://i.imgur.com/ZK5T0B9.jpg
 recipe:
   servings: 12 cupcakes
   prep: 5 minutes
